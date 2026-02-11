@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>pro-udemig-bootstrap</title>
+
 </head>
 
 <body>
@@ -90,7 +90,7 @@ pro-udemig-bootstrap/
 
 <h2>⚙️ Canlı Demo</h2>
 
-![]pro-udemig-bootstrap.gif)
+![](pro-udemig-bootstrap.gif)
 
 <hr>
 
