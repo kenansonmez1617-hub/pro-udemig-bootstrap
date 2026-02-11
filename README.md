@@ -110,7 +110,7 @@ https://github.com/kullanici-adin
 
 <p>
 💼 LinkedIn: 
-<a href="https://www.linkedin.com/in/kullanici-adin" target="_blank">
+<a href="https://www.linkedin.com/in/kenansonmez1617-hub" target="_blank">
 https://www.linkedin.com/in/kenan-sonmez
 </a>
 </p>
