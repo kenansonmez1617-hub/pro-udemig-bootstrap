@@ -101,18 +101,9 @@ pro-udemig-bootstrap/
 Frontend Developer
 </p>
 
-p>
-🔗 GitHub: 
-<a href="https://github.com/kenansonmez1617-hub" target="_blank">
-https://github.com/kullanici-adin
-</a>
-</p>
+GitHub: <a href="https://github.com/kenansonmez1617-hub" target="_blank">github.com/kenansonmez1617-hub</a><br>
+LinkedIn: <a href="https://linkedin.com/in/kenan-sönmez-685445281" target="_blank">linkedin.com/in/kenan-sönmez</a>
 
-<p>
-💼 LinkedIn: 
-<a href="https://www.linkedin.com/in/kenansonmez1617-hub" target="_blank">
-https://www.linkedin.com/in/kenan-sonmez
-</a>
 </p>
 
 <hr>
